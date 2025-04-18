@@ -1,0 +1,38 @@
+/* 🎨 עיצוב הרשימה הנפתחת של dcc.Dropdown */
+.Select-menu-outer {
+    background-color: #2C2C2C !important;
+    color: white !important;
+    border: 1px solid #444444 !important;
+}
+
+.Select-option {
+    background-color: #2C2C2C !important;
+    color: white !important;
+}
+
+.Select-option:hover,
+.VirtualizedSelectFocusedOption {
+    background-color: #444444 !important;
+}
+
+.VirtualizedSelectOption {
+    background-color: #2C2C2C !important;
+    color: white !important;
+}
+
+/* ✅ שדה הבחירה הראשי של Dropdown */
+.Select-control {
+    background-color: #2C2C2C !important;
+    color: white !important;
+    border: 1px solid #444444 !important;
+}
+
+.Select-value-label {
+    color: white !important;
+}
+
+
+.Select-menu-outer {
+    display : block !important;
+    }
+
